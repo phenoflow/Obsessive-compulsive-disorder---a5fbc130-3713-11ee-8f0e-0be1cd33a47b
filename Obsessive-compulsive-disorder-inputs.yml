@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/obsessivecompulsive---primary.py
+inputModule3:
+  class: File
+  path: python/obsessive-compulsive-disorder-neurosis---primary.py
+inputModule4:
+  class: File
+  path: python/obsessional-obsessive-compulsive-disorder---primary.py
+inputModule5:
+  class: File
+  path: python/obsessive-compulsive-disorder-thought---primary.py
+inputModule6:
+  class: File
+  path: python/obsessive-compulsive---secondary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
